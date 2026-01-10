@@ -1,0 +1,2 @@
+result: Hi, this is the first file. 
+ hi, this is the second file.
